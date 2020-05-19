@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------------------
-Dieses Github Repository entstand im Zuge eines Projekts der FH Technikum Wien.
-Das Verwenden der folgenden Skripts ist nur innerhalb der vorgesehen Umgebung möglich,
-von einer privaten Verwendung der Skripts wird ausdrücklich abgeraten.
+Die Verwendung der folgenden Skripte ist nur innerhalb der dafür vorgesehenen Testumgebung zu Lehr- oder Forschungszwecken erlaubt.
+Jeglicher Missbrauch zur Verursachung von Schaden oder missbräuchliche Verwendung mit bösartigen Absichten ist strengstens untersagt.
+Die Verantwortung liegt allein beim Anwender / der Anwenderin.
 --------------------------------------------------------------------------------------------
